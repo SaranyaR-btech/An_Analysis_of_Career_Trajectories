@@ -92,6 +92,13 @@ Performed 10 SQL queries to explore:
 
 ---
 
+## 📊 Dashboard
+
+
+https://github.com/user-attachments/assets/098eac89-2c7d-4196-86c2-e9adfadf18f9
+
+
+
 ## 📎 License
 
 This project is for academic and educational purposes only.
